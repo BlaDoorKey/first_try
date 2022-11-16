@@ -36,3 +36,8 @@ html {
   text-align: center;
   list-style: none;
 }
+
+img {
+  max-width: 100%;
+  border-radius: 15%;
+}
