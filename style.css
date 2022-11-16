@@ -21,9 +21,10 @@ html {
 }
 .header-container {
   max-width: 50%;
-  border: 5px dotted rgb(147, 25, 25);
+  border: 10px dotted rgb(147, 25, 25);
   align-self: center;
   justify-self: center;
+  padding: 3em;
 }
 .header-container h1 {
   color: aquamarine;
