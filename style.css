@@ -21,8 +21,7 @@ html {
 }
 .header-container {
   max-width: 50%;
-  border: 2px solid rgb(104, 147, 255);
-  border-left: 5px dotted rgb(147, 25, 25);
+  border: 5px dotted rgb(147, 25, 25);
   align-self: center;
   justify-self: center;
 }
